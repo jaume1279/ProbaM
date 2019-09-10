@@ -4,4 +4,9 @@ Primer commit al master
 
 MERGE TOTAL
 
+<<<<<<< HEAD
 MES AL MASTER
+=======
+
+BRANCH3
+>>>>>>> BRANCH3
