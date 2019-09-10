@@ -2,6 +2,12 @@ Primer commit al master
 
 Segon commit al master
 
+<<<<<<< HEAD
 Tercer commit al master
 
 Quart commit al master
+=======
+Primer commit a Branch1
+>>>>>>> branch1
+
+Merge amb tot a dins. Podem modificar lo q volguem i aquest es el bo.
