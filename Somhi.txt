@@ -11,3 +11,5 @@ Primer commit a Branch1
 >>>>>>> branch1
 
 Merge amb tot a dins. Podem modificar lo q volguem i aquest es el bo.
+
+Cinque commit del master
